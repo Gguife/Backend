@@ -17,7 +17,7 @@
   - payload: Tem os dados que serão transmitidos no token, como informações de usuário e outras informações de autorização.
   - signature: É usada para verificar a integridade do token e garantir que ele não tenha sido alterado durante a transmissão.
   ```
-  OBS: ``header`` e ``payload`` são codificados em base64, enquanto o signature é calculado utilizando uma chave secreta.
+  OBS: header e payload são codificados em base64, enquanto o signature é calculado utilizando uma chave secreta.
   ``` 
 
 ## Como implementar o JWT
