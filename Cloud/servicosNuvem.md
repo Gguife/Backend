@@ -27,3 +27,5 @@
   - Se conectam por aplicações em nuvem por meio de um painel de controle ou API.
   - SaaS também elimina a necessidade de instalar a aplicação localmente, permitindo adotar métodos de acesso coletivo ao software.
 
+## Créditos
+ - [RedHat](https://www.redhat.com/pt-br/topics/cloud-computing/public-cloud-vs-private-cloud-and-hybrid-cloud)
